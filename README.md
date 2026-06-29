@@ -37,5 +37,5 @@
 ## 📈 Статистика GitHub
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeLuiza&layout=compact&theme=dark&langs_count=4" />
+  <img src="https://metrics.lecoq.io/LeeLuiza?template=classic&base=0&plugin_languages=true&plugin_languages_limit=4&config.theme=dark&config.base=none" />
 </div>
