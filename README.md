@@ -1,4 +1,5 @@
-# Привет 👋 Я Android-разработчица
+# Привет! 
+Я Android-разработчица
 
 Создаю Android-приложения с использованием Kotlin, Jetpack Compose и Clean Architecture.
 
